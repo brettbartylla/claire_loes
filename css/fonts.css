@@ -1,0 +1,18 @@
+
+
+
+/* header fonts */
+@font-face {
+    font-family: 'headerFont';
+    src: url('/assets/fonts/terminal-grotesque_open.otf')  format("opentype");
+}
+
+/* body fonts */
+@font-face {
+    font-family: 'bodyFont';
+    src: url('/assets/fonts/happy-times-NG_regular_master.otf')  format("opentype");
+}
+@font-face {
+    font-family: 'bodyFontItalic';
+    src: url('/assets/fonts/happy-times-NG_italic_master.otf')  format("opentype");
+}

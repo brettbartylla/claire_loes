@@ -1,0 +1,14 @@
+.filtered-image {
+    /* opacity: 0.3; */
+    opacity: 1;
+    transition: .2s ease;
+    backface-visibility: hidden;
+}
+
+.filtered-container:hover .filtered-image {
+    opacity: 1;
+}
+
+.filtered-container:hover .middle {
+    opacity: 0.3;
+}
